@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on building a E-commerce App 
 - 🌱 I’m currently learning React JS and Back-End Technologies like SQL  
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/peter-rezik-a84408123](https://www.linkedin.com/in/peter-rezik-a84408123/))   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/peter-rezik-a84408123/)) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/peter-rezik-a84408123]   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]([https://www.linkedin.com/in/peter-rezik-a84408123](https://www.linkedin.com/in/peter-rezik-a84408123/)) 
 - ⚡ Fun fact: I am solving problems in CodeSignal APP  and creating web app for fun
 
 
