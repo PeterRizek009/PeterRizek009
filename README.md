@@ -7,8 +7,8 @@
 
 ###  About Me : ###
 
-- 🔭 I’m currently working on building a E-commerce App 
-- 🌱 I’m currently learning React JS and Back-End Technologies like SQL  
+- 🔭 I’m currently working on My Portfolio  
+- 🌱 I’m currently learning React JS  
 - 📫 How to reach me: plriek@gmail.com
 - ⚡ Fun fact: I am solving problems in CodeSignal APP  and creating web app for fun
 
