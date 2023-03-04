@@ -2,14 +2,15 @@
 
 # Hi there 👋 #
 
-### I am Peter and i am Front-end developer from Egypt ###
+### I am Peter and i am Front-end developer | React JS ,  from Egypt ###
 
 
 ###  About Me : ###
 
-- 🔭 I’m currently working on My Portfolio  
-- 🌱 I’m currently learning React JS  
+- 🔭 I’m currently working on E-Commerce APP  using Typescript  
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: plriek@gmail.com
+- Portfolio Link : https://peterrazeik-portfolio.netlify.app/
 - ⚡ Fun fact: I am solving problems in CodeSignal APP  and creating web app for fun
 
 
