@@ -7,11 +7,11 @@
 
 ###  About Me : ###
 
-- 🔭 I’m currently working on E-Commerce APP  using Typescript  
+- 🔭 I’m currently working on News App using react and Tailwind CSs 
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: plriek@gmail.com
 - Portfolio Link : https://peterrazeik-portfolio.netlify.app/
-- ⚡ Fun fact: I am solving problems in CodeSignal APP  and creating web app for fun
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
