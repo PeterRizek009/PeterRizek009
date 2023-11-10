@@ -2,7 +2,7 @@
 
 # Hi there 👋 #
 
-### I am Peter and i am Front-end developer | React JS ,  from Egypt ###
+### I am Peter and I am Front-end developer | React JS ,  from Egypt ###
 
 
 ###  About Me : ###
