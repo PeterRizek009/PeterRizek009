@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on News App using react and Tailwind CSs 
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: plriek@gmail.com
-- Portfolio Link : https://peterrizek009.github.io/PeterRezekPortfolio/
+- Portfolio Link : https://www.peterrezik.online/
 
 
 
