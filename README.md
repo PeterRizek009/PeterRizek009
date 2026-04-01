@@ -2,15 +2,24 @@
 
 # Hi there 👋 #
 
-### I am Peter and I am Front-end developer | React JS ,  from Egypt ###
+### Peter Rezik
+## IT Engineer | Full Stack | Infrastructure | Networking
 
+Based in UAE 🇦🇪
 
-###  About Me : ###
+💼 About Me:
+🔧 IT Engineer with experience in Technical Support, Microsoft 365, and Endpoint Management
+🌐 Expanding skills in Full Stack Development & Network Infrastructure
+⚙️ Skilled in: Intune, Entra ID, Windows, Networking Basics, React
 
-- 🔭 I’m currently working on News App using react and Tailwind CSs 
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: plriek@gmail.com
-- Portfolio Link : https://www.peterrezik.online/
+🚀 Currently:
+
+Learning TypeScript & advancing Full Stack skills
+Building real-world IT & Network projects
+
+📫 Contact: peter.s.rezik@gmail.com
+
+🌍 Portfolio: https://www.peterrezik.online/
 
 
 
